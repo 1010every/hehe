@@ -1,1 +1,2 @@
 cosle.log(123)
+cosle.log(456)
